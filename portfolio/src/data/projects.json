@@ -1,27 +1,26 @@
-[
+{
+  "projects": [
     {
-        "name" : "Project 1",
-        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, \nsed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, \nsed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        "link" : "https://github.com/"
+      "name": "E-Commerce Website",
+      "description": "A full-stack e-commerce platform built with React and Node.js, featuring user authentication, payment integration, and inventory management.",
+      "image": "/assets/login.png",
+      "link": "https://github.com/Ndubito/Railed",
+      "technologies": ["JavaScript", "HTML", "MySQL", "Php"]
+    },
+   
+    {
+      "name": "Portfolio Website",
+      "description": "A responsive personal portfolio website showcasing projects, skills, and experience with modern design and smooth animations.",
+      "image": "/assets/Software.png",
+      "link": "https://github.com/Ndubito/portfolio",
+      "technologies": ["React", "CSS3", "JavaScript", "Responsive Design"]
     },
     {
-        "name" : "Project 2",
-        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, \nsed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, \nsed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        "link" : "https://github.com/"
-    },
-    {
-        "name" : "Project 3",
-        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, \nsed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, \nsed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        "link" : "https://github.com/"
-    },
-    {
-        "name" : "Project 4",
-        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, \nsed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, \nsed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        "link" : "https://github.com/"
-    },
-    {
-        "name" : "Project 5",
-        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, \nsed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, \nsed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        "link" : "https://github.com/"
+      "name": "Budget Tracker",
+      "description": "Applcation that connects to your finances and helps you spend without worries made with Java",
+      "image": "/assets/Detective.png",
+      "link": "https://github.com/yourusername/chat-app",
+      "technologies": ["Java", "SpringBoot", "Node.js", "Express"]
     }
-]
+  ]
+}
